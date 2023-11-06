@@ -3,5 +3,6 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/Servizio1GateFrontEnd/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Servizio2DB/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Servizio3Admin/src/main/java" charset="UTF-8" />
   </component>
 </project>

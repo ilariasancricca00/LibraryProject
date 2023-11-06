@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Servizio3Admin" />
         <module name="Servizio1GateFrontEnd" />
         <module name="Servizio2DB" />
       </profile>
@@ -15,6 +16,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="Servizio1GateFrontEnd" options="-parameters" />
       <module name="Servizio2DB" options="-parameters" />
+      <module name="Servizio3Admin" options="-parameters" />
     </option>
   </component>
 </project>
